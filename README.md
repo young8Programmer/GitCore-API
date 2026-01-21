@@ -125,3 +125,5 @@ The application follows a microservices architecture with the following modules:
 <!-- Update 21 -->
 
 <!-- Update 22 -->
+
+<!-- Update 23 -->
